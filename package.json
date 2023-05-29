@@ -1,0 +1,15 @@
+{
+  "name": "pattern-matching",
+  "version": "1.0.0",
+  "description": "Simple pattern matching in JS/TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Gevorgyan <robert1999.g@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4"
+  }
+}
